@@ -1,7 +1,6 @@
 /*
  * Program: Rock Paper Scissors
- * Student Name: Rahul
- * Student Number: 661174
+BY: RAHUL GUDISE
  * Description: A replication of Rock Paper Scissors Lizard Spock RPSLS from the show the Big Bang Theory.
  */
 import javax.swing.*;
